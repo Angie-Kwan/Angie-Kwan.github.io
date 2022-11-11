@@ -18,23 +18,6 @@ layout: page
 
 - 📫 How to reach me: twitter@thatangiekwan
 
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
 
 ## Screenshots
 
