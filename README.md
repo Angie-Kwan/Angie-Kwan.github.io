@@ -4,9 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
-## About
+### About Me : Angie Ching Yi Kwan
 
-<body class="theme-base-08">
+- 🔭 I’m currently working on my master thesis on the post-Quebec Agreement nuclear bomb development during WWII (1943-45), and intrigued by their aftermaths and the roles of the related secret negotiations during an intense period of decolonisation that immediately followed (1946-50). 
+
+- 🌱 I’m currently enjoying learning about twentieth century history from areas including Latin America, Algeria, to Europe. Happy to make transcontinental connections and comparisons from a global history perspective!
+
+- 👯 I’m looking to collaborate on writing projects and articles, and also excited to hear about different opportunities! Feel free to reach out!
+
+- 🤔 I’m looking for help with : How does the massive immigration to mastodon works out ? 
+
+- 💬 Ask me about: Travels, Museums, Cartoons and Animations!
+
+- 📫 How to reach me: twitter@thatangiekwan
 
 # Layout
 
